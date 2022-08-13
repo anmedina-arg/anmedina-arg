@@ -1,6 +1,6 @@
 # Hi there 👋
 
-######visita mi [perfil] en linkedin (https://www.linkedin.com/in/andres-medina-arg/)
+visita mi [perfil](https://www.linkedin.com/in/andres-medina-arg/) en linkedin
 
 **anmedina-arg/anmedina-arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

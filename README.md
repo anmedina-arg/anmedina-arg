@@ -9,7 +9,7 @@ I developed my experience in the IT world at Henry's bootcamp, where I have carr
 
 Visit my [LinkedIn profile](https://www.linkedin.com/in/andres-medina-arg/)
 
-(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 
 
 # Bye there!

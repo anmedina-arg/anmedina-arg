@@ -11,5 +11,15 @@ Visit my LinkedIn profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/andres-medina-arg/)
 
+## My Projects
+
+### Full Stack Web Developer | [Davo Shoes](https://henry-final-project.vercel.app) (E-commerce)
+#### Collaborators
+- [@gabrielweht](https://github.com/gabrielweht) 
+- [@Iverges](https://github.com/lrverges) 
+- [@Catasan](https://github.com/Catasan) 
+- [@alfonzomario](https://github.com/alfonzomario)
+- [@Nikl4auss](https://github.com/Nikl4auss)
+- [@Estefi24](https://github.com/Estefi24)
 
 # Bye there!

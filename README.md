@@ -1,6 +1,4 @@
-<h1 text-aligne="center">
-	Hi there, I am Andrés Medina 👋
-</h1>
+# Hi there, I am Andrés Medina 👋
 
 ### INDUSTRIAL ENGINEER | FULL STACK DEVELOPER
 

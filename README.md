@@ -1,4 +1,4 @@
-<h1 aligne="center">
+<h1 text-aligne="center">
 	Hi there, I am Andrés Medina 👋
 </h1>
 

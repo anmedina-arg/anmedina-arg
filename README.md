@@ -31,4 +31,4 @@ We used: Javascript | React | React-Redux | CSS puro (modules) | Express | Node 
 - [@Nikl4auss](https://github.com/Nikl4auss)
 - [@Estefi24](https://github.com/Estefi24)
 
-👋
+# 👋

@@ -31,7 +31,7 @@ Visit my LinkedIn profile
 
 - Typescript
 
-### My english level is intermediate and I am studying to improve it
+### My level of Englis is intermediate and I am studying to improve it
 
 ## My Projects
 

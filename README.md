@@ -11,6 +11,28 @@ Visit my LinkedIn profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/andres-medina-arg/)
 
+## ABOUT MY SKILSS
+
+### What I know
+
+- HTML
+- CSS
+- Javascript
+- React
+- React-Router
+- Redux
+- Node
+- Express
+- SQL
+- Sequelize
+- Auth0
+
+### What I'm currently learning
+
+- Typescript
+
+### My english level is intermediate and I am studying to improve it
+
 ## My Projects
 
 ### Full Stack Web Developer | [PI - Countries](https://github.com/anmedina-arg/PI-Henry.git)

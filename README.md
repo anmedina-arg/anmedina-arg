@@ -4,8 +4,7 @@
 
 #### ABOUT ME
 
-I am a proactive and responsible person. I like new challenges, research, study and learn new things. This has led me to train as a Full Stack Developer with main stack JavaScript and Node Js.
-I developed my experience in the IT world at Henry's bootcamp, where I have carried out different projects, individually and as a team! In addition, he generated solid and important soft skills during his 12 years of experience as an Industrial Engineer where he led work teams, developing people in soft skills such as communication, feedback, inclusion, diversity, teamwork and continuous improvement.
+Proactive and dedicated fullstack developer. Working freelance, I have managed to deepen and professionalize my technical knowledge, in Javascript / Typescript, React, Redux, Node, Express and Sequelize; developing pages and applications for different clients. I am proactive, thoughtful, observant, analytical and creative. I graduated as an Industrial Engineer, I worked +12 years in the physical-chemical process industry. I seek to continue growing in the IT world integrating a good work team, because I faithfully believe in the synergy that is achieved by working as a team. Contact me!
 
 Visit my LinkedIn profile
 
@@ -17,7 +16,10 @@ Visit my LinkedIn profile
 
 - HTML
 - CSS
+- Tailwind
+- Styled Component
 - Javascript
+- Typescript
 - React
 - React-Router
 - Redux

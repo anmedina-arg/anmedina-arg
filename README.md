@@ -55,10 +55,23 @@ Live in 2 stores, **6,000+ orders processed**, **52% repeat-order rate**. Mobile
 
 ---
 
-## Earlier team work
+## Working in teams
 
-**[Davo Shoes](https://henry-final-project.vercel.app)** — sports shoes e-commerce built by a team of 7 (Henry bootcamp final project): roles and permissions, stock and order management, cart, Google sign-in, Mercado Pago checkout and transactional emails. Agile with Trello and GitHub.
-`React` `Redux` `Node` `Express` `Sequelize`
+**Plug Zone** · Full Stack Developer (contractor, Nov 2023 – Jan 2026)
+Joined as a frontend developer on a logistics and invoicing app integrated with SAP, and grew into backend, architecture and systems integration: SOAP queries against SAP, plus identity management work with NetIQ (Java/XML connectors, workflows).
+`React` `TypeScript` `Zustand` `TanStack Query` `React Hook Form` `SAP`
+
+**Cumbre-tech** · Rapitrago (Sep 2026 – present)
+Building a beverage delivery platform for the client: React Native + Expo customer app, Laravel backend and admin panel.
+`React Native` `Expo` `Laravel`
+
+**Dium** · Frontend Lead & Technical Mentor (Jul – Sep 2023)
+Led the frontend of an auto parts e-commerce: introduced TypeScript, Next.js, Tailwind and Storybook, reviewed every pull request against an agreed standard (strict typing, no `any`), coordinated API contracts with backend and reported progress to the Product Manager.
+`Next.js` `TypeScript` `Tailwind` `Storybook`
+
+**Totono (GetDeli)** · Full Stack Developer (Sep 2022 – Apr 2023)
+E-commerce platform built across frontend, backend and database in an Nx monorepo, with Linear and a GitHub branch and pull request workflow.
+`TypeScript` `React` `Prisma` `Nx`
 
 ---
 
